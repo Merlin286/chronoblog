@@ -1,0 +1,59 @@
+
+{
+    "quantumComputer": {
+        "src": "/images/The_Quantum_Leap_in_Computing.webp",
+        "hint": "quantum computer"
+    },
+    "celestialNavigation": {
+        "src": "/images/Navigating_the_Stars.webp",
+        "hint": "celestial navigation"
+    },
+    "forest": {
+        "src": "/images/The_Silent_Language_of_Trees.webp",
+        "hint": "forest trees"
+    },
+    "aiAssistant": {
+        "src": "/images/The_Rise_of_AI.webp",
+        "hint": "ai robot"
+    },
+    "darkMatter": {
+        "src": "/images/Unseen_Universe.webp",
+        "hint": "dark matter"
+    },
+    "ancientClocks": {
+        "src": "/images/The_Great_Timeline.webp",
+        "hint": "ancient clock"
+    },
+    "simulation": {
+        "src": "/images/The_Simulation_Hypothesis.webp",
+        "hint": "simulation matrix"
+    },
+    "bioHacking": {
+        "src": "/images/Bio-Hacking.webp",
+        "hint": "biotechnology"
+    },
+    "atlantis": {
+        "src": "/images/The_Lost_City.webp",
+        "hint": "underwater city"
+    },
+    "aiStorytelling": {
+        "src": "/images/Generative_AI_and_the_Future_of_Storytelling.webp",
+        "hint": "writing book"
+    },
+    "timeCapsule": {
+        "src": "/images/Digital_Time_Capsules.webp",
+        "hint": "time capsule"
+    },
+    "terraformingMars": {
+        "src": "/images/Terraforming_Mars.webp",
+        "hint": "mars planet"
+    },
+    "futureTime": {
+        "src": "/images/The_Future_of_Time.webp",
+        "hint": "galaxy clock"
+    },
+    "about": {
+        "src": "https://picsum.photos/seed/telescope/600/600",
+        "hint": "stary sky"
+    }
+}
